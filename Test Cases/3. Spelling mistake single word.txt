@@ -1,0 +1,1 @@
+A projectile is any object thrown into space upon which the only acting force is gravity. The primary force acting on a projectile is gravity. This doesn’t necessarily mean that other forces do not act on it, just that their effect is minimal compared to gravity. The path followed by a projectyle is known as a trajectory. Eg: Ball thrown
